@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(33, 184, 126);
+    border: 2px;
+    margin-top: 0%;
+    margin: 0%;
+  }
+  .menu{
+    background-color: aquamarine;
+    width: 100%;
+    overflow: hidden;
+  
+  }
+  
+  .logi{
+    width: 20%;
+    float: left;
+    text-align: center;
+  
+    
+  }
+  
+  .logi img{
+    width: 60px;
+    margin-top: auto;
+  }
+  
+  .naavbar{
+    width:50% ;
+    float: left;
+   
+    
+  
+  }
+  
+  .naavbar a{
+    text-decoration: none;
+    padding: 6px;
+    background-color: aquamarine;
+    display: inline-block;
+  }
+   
+  .naavbar a:hover{
+    color: aquamarine;
+    background-color: rgb(52, 43, 185);
+  }
+  
+  .searcbar{
+    width: 30%;
+    float: right;
+    margin-top:auto;
+    text-align: center;
+   
+  }
+  .sidebar{
+    background-color: bisque;
+    color: aquamarine;
+    padding: 8px;
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+ }
+
+ .sidebar-menu a{
+    text-decoration: none;
+    padding: 6px;
+    background-color: aquamarine;
+    display: inline-block;
+    display: flex;
+}
+.sidebar-menu{
+    width: 20%;
+}
+.new{
+  display: flex;
+  width: 80%;
+}
+
+    
+    
+    
+    
+
+
+  
